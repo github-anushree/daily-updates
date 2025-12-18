@@ -1,0 +1,51 @@
+EmployeeID,Name,Age,Department,Region,SalesAmount,Target,TargetAchieved,CommissionPercentage,TotalEarnings
+1001,Employee_1,28,Electronics,North,34200,17968,Yes,5,35910
+1002,Employee_2,26,Home Decor,East,32850,42821,No,9,35806.5
+1003,Employee_3,22,Home Decor,South,43267,40728,Yes,2,44132.34
+1004,Employee_4,31,Electronics,West,17263,40183,No,3,17780.89
+1005,Employee_5,49,Groceries,East,37427,17010,Yes,4,38924.08
+1006,Employee_6,22,Groceries,East,25853,41898,No,4,26887.12
+1007,Employee_7,43,Automobile,West,7695,32586,No,10,8464.5
+1008,Employee_8,37,Groceries,South,47690,49267,No,3,49120.7
+1009,Employee_9,31,Home Decor,East,49578,22738,Yes,6,52552.68
+1010,Employee_10,52,Electronics,East,18766,14392,Yes,4,19516.64
+1011,Employee_11,46,Electronics,West,26253,49772,No,7,28090.71
+1012,Employee_12,43,Clothing,North,32197,47360,No,6,34128.82
+1013,Employee_13,41,Clothing,West,5955,28323,No,6,6312.3
+1014,Employee_14,50,Electronics,West,30025,34692,No,9,32727.25
+1015,Employee_15,47,Groceries,South,5377,16274,No,3,5538.31
+1016,Employee_16,22,Electronics,East,48945,44965,Yes,8,52860.6
+1017,Employee_17,23,Groceries,East,40326,47702,No,6,42745.56
+1018,Employee_18,31,Home Decor,East,30349,24158,Yes,5,31866.45
+1019,Employee_19,55,Automobile,North,12766,48762,No,9,13914.94
+1020,Employee_20,36,Automobile,West,28150,15865,Yes,4,29276
+1021,Employee_21,51,Clothing,North,27366,14747,Yes,5,28734.3
+1022,Employee_22,32,Groceries,East,8939,31223,No,8,9654.12
+1023,Employee_23,47,Automobile,East,41728,19652,Yes,9,45483.52
+1024,Employee_24,52,Automobile,North,36688,33729,Yes,3,37788.64
+1025,Employee_25,55,Clothing,North,17986,28587,No,7,19245.02
+1026,Employee_26,55,Automobile,South,21533,47125,No,9,23470.97
+1027,Employee_27,31,Groceries,East,38560,47726,No,6,40873.6
+1028,Employee_28,33,Electronics,West,33593,23312,Yes,5,35272.65
+1029,Employee_29,44,Clothing,West,7157,10232,No,9,7801.13
+1030,Employee_30,23,Groceries,West,27787,41638,No,6,29454.22
+1031,Employee_31,40,Home Decor,West,38718,25399,Yes,7,41428.26
+1032,Employee_32,54,Clothing,North,34702,47611,No,3,35743.06
+1033,Employee_33,49,Clothing,North,29469,10151,Yes,2,30058.38
+1034,Employee_34,42,Electronics,East,49111,31797,Yes,6,52057.66
+1035,Employee_35,41,Clothing,North,39717,12490,Yes,3,40908.51
+1036,Employee_36,30,Groceries,West,20471,35198,No,6,21699.26
+1037,Employee_37,26,Clothing,West,25221,20484,Yes,9,27490.89
+1038,Employee_38,49,Electronics,North,25613,28763,No,10,28174.3
+1039,Employee_39,55,Clothing,West,35710,34422,Yes,6,37852.6
+1040,Employee_40,44,Automobile,West,27167,25440,Yes,3,27982.01
+1041,Employee_41,32,Automobile,East,44983,24131,Yes,3,46332.49
+1042,Employee_42,37,Home Decor,South,28905,32080,No,9,31506.45
+1043,Employee_43,33,Home Decor,West,46558,15582,Yes,8,50282.64
+1044,Employee_44,53,Automobile,West,11767,38819,No,7,12590.69
+1045,Employee_45,53,Electronics,East,40454,19416,Yes,2,41263.08
+1046,Employee_46,51,Automobile,North,32685,48545,No,2,33338.7
+1047,Employee_47,31,Clothing,East,37045,10613,Yes,9,40379.05
+1048,Employee_48,35,Groceries,East,18960,12567,Yes,8,20476.8
+1049,Employee_49,43,Home Decor,South,17997,12104,Yes,5,18896.85
+1050,Employee_50,33,Automobile,North,27557,13555,Yes,5,28934.85
