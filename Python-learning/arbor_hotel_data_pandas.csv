@@ -1,0 +1,101 @@
+HotelID,HotelName,Location,RoomType,Rating,PricePerNight,BookingStatus,CheckInDate
+1,Mountain Inn,Miami,,5,200,Cancelled,03:16.8
+2,City Lights Hotel,New York,Double,3,100,Confirmed,03:16.8
+3,Ocean View,Miami,Double,,100,Cancelled,03:16.8
+4,City Lights Hotel,Los Angeles,Suite,3,150,Confirmed,03:16.8
+5,City Lights Hotel,New York,Suite,3,,Confirmed,03:16.8
+6,Royal Stay,San Francisco,Deluxe,4,100,Pending,03:16.8
+7,Ocean View,Chicago,Deluxe,,250,Cancelled,03:16.8
+8,Ocean View,Miami,Single,5,,Confirmed,03:16.8
+9,Ocean View,Chicago,Single,5,100,Confirmed,03:16.8
+10,City Lights Hotel,Chicago,Deluxe,3,50,Cancelled,03:16.8
+11,Mountain Inn,New York,Suite,3,200,Pending,03:16.8
+12,Ocean View,Chicago,Double,5,100,Pending,03:16.8
+13,City Lights Hotel,San Francisco,Deluxe,5,150,Confirmed,03:16.8
+14,Royal Stay,Chicago,Single,,200,Cancelled,03:16.8
+15,Mountain Inn,New York,Suite,5,250,Pending,03:16.8
+16,Royal Stay,San Francisco,Deluxe,4,50,Cancelled,03:16.8
+17,Mountain Inn,Los Angeles,Deluxe,,250,Cancelled,03:16.8
+18,City Lights Hotel,Chicago,,4,200,Confirmed,03:16.8
+19,Grand Palace,New York,,4,200,Pending,03:16.8
+20,Mountain Inn,Los Angeles,Suite,,200,Confirmed,03:16.8
+21,Royal Stay,Los Angeles,Double,3,250,Pending,03:16.8
+22,City Lights Hotel,Miami,Suite,5,200,,03:16.8
+23,Mountain Inn,San Francisco,Suite,4,250,Pending,03:16.8
+24,Grand Palace,Chicago,Suite,5,200,Pending,03:16.8
+25,Grand Palace,New York,Deluxe,5,150,,03:16.8
+26,Ocean View,Miami,Deluxe,4,,Cancelled,03:16.8
+27,Ocean View,San Francisco,Suite,3,250,Confirmed,03:16.8
+28,Royal Stay,Miami,Deluxe,4,100,Cancelled,03:16.8
+29,Mountain Inn,San Francisco,Single,3,200,Pending,03:16.8
+30,Mountain Inn,San Francisco,Single,5,100,Confirmed,03:16.8
+31,Ocean View,Chicago,Deluxe,3,150,Pending,03:16.8
+32,Mountain Inn,San Francisco,,,50,Confirmed,03:16.8
+33,Mountain Inn,Miami,Suite,3,150,Cancelled,03:16.8
+34,Grand Palace,San Francisco,Double,5,200,Confirmed,03:16.8
+35,Ocean View,Chicago,Deluxe,5,100,Confirmed,03:16.8
+36,City Lights Hotel,Chicago,Single,3,100,Confirmed,03:16.8
+37,Ocean View,Miami,Suite,3,250,Confirmed,03:16.8
+38,City Lights Hotel,Los Angeles,Deluxe,4,100,Confirmed,03:16.8
+39,Grand Palace,Los Angeles,Single,3,250,Pending,03:16.8
+40,Royal Stay,San Francisco,Single,4,50,Confirmed,03:16.8
+41,Mountain Inn,New York,Double,3,200,Confirmed,03:16.8
+42,Grand Palace,San Francisco,Suite,4,250,Cancelled,03:16.8
+43,Mountain Inn,Miami,Suite,5,50,Confirmed,03:16.8
+44,Royal Stay,Miami,Double,,100,,03:16.8
+45,Royal Stay,Miami,Double,3,100,Pending,03:16.8
+46,Grand Palace,Miami,Suite,3,50,Confirmed,03:16.8
+47,Royal Stay,Miami,Suite,3,100,Cancelled,03:16.8
+48,City Lights Hotel,Chicago,Deluxe,4,50,Cancelled,03:16.8
+49,Royal Stay,Los Angeles,Deluxe,3,250,Pending,03:16.8
+50,Mountain Inn,Miami,Double,5,250,,03:16.8
+51,Mountain Inn,New York,Deluxe,5,50,Confirmed,03:16.8
+52,Mountain Inn,New York,Single,3,250,Cancelled,03:16.8
+53,Mountain Inn,New York,Deluxe,5,250,Confirmed,03:16.8
+54,City Lights Hotel,New York,Deluxe,,250,,03:16.8
+55,Ocean View,Chicago,Single,3,150,Confirmed,03:16.8
+56,Grand Palace,New York,Double,5,200,Cancelled,03:16.8
+57,Mountain Inn,Miami,Single,3,100,Confirmed,03:16.8
+58,Royal Stay,San Francisco,Deluxe,5,150,Pending,03:16.8
+59,Mountain Inn,New York,Double,4,250,Confirmed,03:16.8
+60,Royal Stay,Chicago,Deluxe,3,50,,03:16.8
+61,Royal Stay,Chicago,,4,250,Pending,03:16.8
+62,Mountain Inn,New York,Single,5,200,Confirmed,03:16.8
+63,City Lights Hotel,San Francisco,Deluxe,4,250,,03:16.8
+64,Royal Stay,New York,Suite,4,50,Confirmed,03:16.8
+65,Royal Stay,Chicago,Suite,5,200,Cancelled,03:16.8
+66,Mountain Inn,Los Angeles,Single,4,250,Cancelled,03:16.8
+67,Royal Stay,Miami,,4,200,Confirmed,03:16.8
+68,Royal Stay,Chicago,Suite,5,,Confirmed,03:16.8
+69,Mountain Inn,New York,Suite,4,100,Confirmed,03:16.8
+70,Mountain Inn,Miami,Deluxe,5,250,Cancelled,03:16.8
+71,Grand Palace,New York,Deluxe,4,200,Confirmed,03:16.8
+72,City Lights Hotel,New York,Suite,5,50,Cancelled,03:16.8
+73,City Lights Hotel,Los Angeles,Deluxe,5,250,Pending,03:16.8
+74,Royal Stay,Miami,Deluxe,4,100,Cancelled,03:16.8
+75,City Lights Hotel,Miami,Double,4,100,Cancelled,03:16.8
+76,Royal Stay,Los Angeles,Deluxe,,250,Pending,03:16.8
+77,Grand Palace,Chicago,Single,3,200,Cancelled,03:16.8
+78,Mountain Inn,New York,Deluxe,3,100,,03:16.8
+79,Mountain Inn,San Francisco,Deluxe,3,200,Confirmed,03:16.8
+80,Mountain Inn,New York,Suite,5,100,Cancelled,03:16.8
+81,City Lights Hotel,New York,Single,4,100,Confirmed,03:16.8
+82,Grand Palace,Chicago,Deluxe,5,150,,03:16.8
+83,City Lights Hotel,New York,Deluxe,3,100,Confirmed,03:16.8
+84,City Lights Hotel,Los Angeles,Double,4,50,Confirmed,03:16.8
+85,Grand Palace,Los Angeles,Deluxe,5,250,Cancelled,03:16.8
+86,Grand Palace,Miami,Deluxe,4,250,,03:16.8
+87,Grand Palace,San Francisco,Double,5,200,Cancelled,03:16.8
+88,Grand Palace,New York,Suite,4,100,Confirmed,03:16.8
+89,Mountain Inn,New York,Deluxe,3,50,Confirmed,03:16.8
+90,Ocean View,Chicago,,3,200,Pending,03:16.8
+91,Ocean View,Los Angeles,Single,4,150,Pending,03:16.8
+92,Grand Palace,San Francisco,Suite,5,200,,03:16.8
+93,Ocean View,Miami,Single,3,200,Pending,03:16.8
+94,Ocean View,Los Angeles,Single,3,100,Cancelled,03:16.8
+95,Grand Palace,Miami,Double,3,150,Pending,03:16.8
+96,Ocean View,Chicago,Deluxe,4,200,Confirmed,03:16.8
+97,City Lights Hotel,Chicago,Double,4,50,Cancelled,03:16.8
+98,Royal Stay,New York,Double,5,,Cancelled,03:16.8
+99,Royal Stay,San Francisco,Double,5,250,Confirmed,03:16.8
+100,Grand Palace,Miami,Double,5,150,Cancelled,03:16.8
