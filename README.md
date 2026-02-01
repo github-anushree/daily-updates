@@ -1,2 +1,2 @@
-# daily-updates
+## daily-updates
 Daily learning updates
